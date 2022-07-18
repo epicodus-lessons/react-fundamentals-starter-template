@@ -1,7 +1,14 @@
 ## What is this?
 ----
 
-This is a completed example project called "Help Queue" that demonstrates how to use React from the LearnHowToProgram.com [Week 2: React with Fundamentals coursework](https://www.learnhowtoprogram.com/react/react-fundamentals). 
+This is a starter project to use as a template for a project that uses:
+
+* React version 16
+
+The fundamentals of React is taught in the LearnHowToProgram.com [Week 2: React Fundamentals](https://www.learnhowtoprogram.com/react/react-fundamentals) coursework. 
+
+For a completed example project that uses this tech, visit this repo:
+[https://github.com/epicodus-lessons/react-fundamentals-completed-help-queue](https://github.com/epicodus-lessons/react-fundamentals-completed-help-queue)
 
 ## Project Setup
 ---
